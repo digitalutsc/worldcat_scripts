@@ -1,0 +1,2303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>5350</numberOfRecords>
+<records>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Münch, Richard.</dc:creator>
+<dc:date>1994</dc:date>
+<dc:format>x, 253 Seiten.</dc:format>
+<dc:identifier>0830412557</dc:identifier>
+<dc:identifier>9780830412556</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Nelson-Hall</dc:publisher>
+<dc:relation>A Nelson-Hall quality paperback</dc:relation>
+<dc:title>Sociological theory / 1, From the 1850s to the 1920s.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">931110</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>311887493</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Sydie, R. A. (Rosalind Ann), 1940-</dc:contributor>
+<dc:creator>Adams, Bert N.</dc:creator>
+<dc:date>2002</dc:date>
+<dc:description>Originally published: Thousand Oaks, Calif. : Pine Forge Press, 2001.</dc:description>
+<dc:format>xxx, 612 pages ; 24 cm</dc:format>
+<dc:identifier>817829219X</dc:identifier>
+<dc:identifier>9788178292199</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Vistaar</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">051021</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>62123162</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Wallace, Walter L.</dc:contributor>
+<dc:date>2017</dc:date>
+<dc:description>First published 1969 by Transaction Publishers.</dc:description>
+<dc:format>1 online resource : illustrations</dc:format>
+<dc:identifier>1351489011</dc:identifier>
+<dc:identifier>9781351489010</dc:identifier>
+<dc:identifier>9780202369198</dc:identifier>
+<dc:identifier>0202369196</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://lib.myilibrary.com?id=1023503</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=1564211</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://nls.ldls.org.uk/welcome.html?ark:/81055/vdc_100047067143.0x000001</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">170728</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>995616403</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Coser, Lewis A., 1913-2003.</dc:contributor>
+<dc:contributor>Rosenberg, Bernard, 1923-1996.</dc:contributor>
+<dc:date>1989, ©1982</dc:date>
+<dc:description>5th ed.</dc:description>
+<dc:description>Reprint. Originally published in this ed.: New York : Macmillan, 1982.</dc:description>
+<dc:format>xviii, 603 pages ; 23 cm</dc:format>
+<dc:identifier>088133457X</dc:identifier>
+<dc:identifier>9780881334579</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Waveland Press</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Sociological theory : a book of readings </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">900611</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>21769128</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Parsons, Talcott.</dc:creator>
+<dc:date>2014</dc:date>
+<dc:description>Title from resource description page (Recorded Books, viewed October 13, 2014).</dc:description>
+<dc:description>Talcott Parsons needs little introduction to anyone acquainted with the literature of sociology. Few men have dominated their fields so much as Dr. Parsons does his. In this collection of nineteen essays, Dr. Parsons focuses his attention on subjects ranging from the social structure of Japan to propaganda and social control, from sociological aspects of Fascist movements to the place of psychoanalysis in society. Also dealt with are such topics as: The role of ideas in social action, the motivation of economic activities, American social structure, social classes and class conflict, and the prospects for contemporary sociological theory. The whole body of essays presented here belongs in the broad field of "application" of sociological theory. It stands in the line of scientific development of the most advanced techniques for sociological investigation and evaluation of data.</dc:description>
+<dc:format>1 online resource</dc:format>
+<dc:identifier>9781439119211</dc:identifier>
+<dc:identifier>143911921X</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://www.myilibrary.com?id=893791</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://rbdigital.oneclickdigital.com</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Free Press</dc:publisher>
+<dc:subject>Social Science.</dc:subject>
+<dc:title>Essays in sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">090713</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>893100430</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Turner, Jonathan H.,</dc:creator>
+<dc:date>[2004]</dc:date>
+<dc:description>7. ed., [Nachdr.].</dc:description>
+<dc:format>XXV, 529 Seiten : Diagramme ; 24 cm</dc:format>
+<dc:identifier>0534535992</dc:identifier>
+<dc:identifier>9780534535995</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Wadsworth Thomson</dc:publisher>
+<dc:title>The structure of sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">091211</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>549028728</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Martindale, Don.</dc:creator>
+<dc:date>2013</dc:date>
+<dc:description>First Published in 1998. Routledge is an imprint of Taylor &amp; Francis, an informa company.</dc:description>
+<dc:description>Cover; Halftitle Page; Title Page; Copyright Page; Dedication; Preface; Contents; PART ONE Sociology and the Sciences; 1. The Road to Sociology; 2. The Birth of the Social Sciences; PART TWO Positivistic Organicism; 3. The Social and Philosophical Origins of Positivistic Organicism; 4. The Classical Period of Positivistic Organicism; 5. The Transformation and Eventual Disintegration ofPositivistic Organicism; PART THREE Conflict Theory: The Paradox of Maturity; 6. The Foundations of Conflict Theory; 7. Major Conflict Ideologies of the Nineteenth Century; 8. Sociological Conflict Theories.</dc:description>
+<dc:description>PART FOUR The Formal School of Sociological Theory9. The Philosophical Foundations of Sociological Formalism; 10. The Neo-Kantian Branch of Sociological Formalism; 11. The Phenomenological Branch of Sociological Formalism; PART FIVE Social Behaviorism; 12. The Conceptual Foundations of Social Behaviorism; 13. The Pluralistic Behavioral Branch of Social Behaviorism; 14. Symbolic Interactionism; 15. The Social-Action Branch of Social Behaviorism; 16. Further Developments in Social-Action Theory; PART SIX Sociological Functionalism; 17. The Nature and Origins of Sociological Functionalism.</dc:description>
+<dc:description>18. Macro-Functionalism in Contemporary Sociology19. Micro-Functionalis: Group Dynamics; PART SEVEN Conclusion; 20. Toward Theoretical Integration; Index.</dc:description>
+<dc:format>1 online resource (573 pages).</dc:format>
+<dc:identifier>9781136225871</dc:identifier>
+<dc:identifier>1136225870</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://public.eblib.com/choice/publicfullrecord.aspx?p=1539278</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Taylor and Francis</dc:publisher>
+<dc:relation>International Library of Sociology</dc:relation>
+<dc:title>The Nature and Types of Sociological Theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">131123</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>863823284</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Rex, John.</dc:creator>
+<dc:date>2010</dc:date>
+<dc:format>ix, 194 pages.</dc:format>
+<dc:identifier>9780415604987</dc:identifier>
+<dc:identifier>0415604982</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:relation>International library of sociology</dc:relation>
+<dc:title>Key problems of sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">110808</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>778811797</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Beeghley, Leonard.</dc:contributor>
+<dc:contributor>Powers, Charles H.</dc:contributor>
+<dc:contributor>Turner, Jonathan H.</dc:contributor>
+<dc:creator>Turner, Jonathan H.</dc:creator>
+<dc:date>©2012</dc:date>
+<dc:description>7th ed.</dc:description>
+<dc:description>Revised edition of: The emergence of sociological theory. 6th ed. c2007.</dc:description>
+<dc:format>xvi, 502 pages : illustrations ; 26 cm</dc:format>
+<dc:identifier>9781452206233</dc:identifier>
+<dc:identifier>1452206236</dc:identifier>
+<dc:identifier>9781452206240</dc:identifier>
+<dc:identifier>1452206244</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Pine Forge Press</dc:publisher>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://www.sagepub.com/books/Book237235?siteId=sage-uk&amp;prodTypes=any&amp;q=emergence+of+sociological+theory&amp;fs=1#tabview=toc</dc:relation>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://www.sagepub.com/books/Book237235?siteId=sage-uk&amp;prodTypes=any&amp;q=emergence+of+sociological+theory&amp;fs=1#tabview=google</dc:relation>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://www.sagepub.com/books/Book237235?siteId=sage-uk&amp;prodTypes=any&amp;q=emergence+of+sociological+theory&amp;fs=1#tabview=title</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--United States--History.</dc:subject>
+<dc:title>The emergence of sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">110801</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2011031071</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>730403668</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Stepnisky, Jeffrey,</dc:contributor>
+<dc:creator>Ritzer, George,</dc:creator>
+<dc:format>xxi, 569 Seiten 26 cm</dc:format>
+<dc:identifier>9781506325576</dc:identifier>
+<dc:identifier>1506325572</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Methodology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociologists--Biography.</dc:subject>
+<dc:title>Classical sociological theory</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">161101</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2016036790</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>994644257</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Theodorson, George A.,</dc:contributor>
+<dc:creator>Timasheff, Nicholas S. (Nicholas Sergeyevitch), 1886-1970.</dc:creator>
+<dc:date>©1976</dc:date>
+<dc:description>4th ed.</dc:description>
+<dc:format>xi, 403 pages ; 25 cm</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Random House</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:title>Sociological theory, its nature and growth </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">760623</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   76023095 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>2331869</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Orenstein, David Michael, 1951-</dc:contributor>
+<dc:creator>Ashley, David, 1950-</dc:creator>
+<dc:date>2009</dc:date>
+<dc:description>7th ed.</dc:description>
+<dc:description>Previous edition: 2004.</dc:description>
+<dc:format>pages cm</dc:format>
+<dc:identifier>9780205518142</dc:identifier>
+<dc:identifier>0205518141</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Allyn and Bacon </dc:publisher>
+<dc:publisher>Pearson Education [distributor]</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Methodology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociologists--Biography.</dc:subject>
+<dc:title>Sociological theory : classical statements </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">090708</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>428776282</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Stepnisky, Jeffrey.</dc:contributor>
+<dc:contributor>SAGE Publishing.</dc:contributor>
+<dc:creator>Ritzer, George (1940- ).</dc:creator>
+<dc:date>cop. 2018</dc:date>
+<dc:description>10th edition.</dc:description>
+<dc:description>Na s. red. ISBN błędnie zapisany: 9781506337715.</dc:description>
+<dc:format>XXIII, [1], 802 s. : il. ; 26 cm.</dc:format>
+<dc:identifier>9781506337715</dc:identifier>
+<dc:identifier>1506337716</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Sage</dc:publisher>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">170620</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>993835751</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Eisenberg, Anne F.</dc:creator>
+<dc:date>2007</dc:date>
+<dc:format>pages cm</dc:format>
+<dc:identifier>0205453724</dc:identifier>
+<dc:identifier>9780205453726</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Allyn and Bacon</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social sciences--Philosophy.</dc:subject>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">060426</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>74522299</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Kiran, Asha.</dc:creator>
+<dc:date>2010</dc:date>
+<dc:format>280 pages</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Anmol Publications</dc:publisher>
+<dc:title>Sociological theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">110811</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>746294918</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Merton, Robert King, 1910-2003.</dc:creator>
+<dc:date>[196-]</dc:date>
+<dc:description>Reprinted from: American journal of sociology, v. 50, May 1945.</dc:description>
+<dc:description>Caption title.</dc:description>
+<dc:format>pages 462-473 ; 28 cm.</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Bobbs-Merrill, College Division</dc:publisher>
+<dc:relation>Bobbs-Merrill reprint series in the social sciences ; 195</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">931222</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>29539031</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Calhoun, Craig J. 1952-</dc:contributor>
+<dc:date>2012</dc:date>
+<dc:description>3rd ed.</dc:description>
+<dc:format>620 Seiten : Illustrationen</dc:format>
+<dc:identifier>9780470655665</dc:identifier>
+<dc:identifier>0470655666</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Wiley-Blackwell</dc:publisher>
+<dc:subject>Soziologische Theorie.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History--20th century.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>Contemporary Sociological Theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">101020</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2011036064</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>793995444</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Burgess, Dejerius.</dc:creator>
+<dc:date>2018</dc:date>
+<dc:description>Description based upon print version of record.</dc:description>
+<dc:description>Intro; CONTENTS; Introduction; Sociological Rational Choice Theory; Structural Functionalism,Neo-functionalism and Conflict Theory; St. Augustine; Emile Durkheim; Herbert Spencer; Georg Wilhelm Friedrich Hegel; Karl Marx; Max Weber; Georg Simmel; Sigmund Freud; Bibliography; Index</dc:description>
+<dc:format>1 online resource (295 p.)</dc:format>
+<dc:identifier>9781788824033</dc:identifier>
+<dc:identifier>1788824032</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://public.eblib.com/choice/PublicFullRecord.aspx?p=5390565</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>ETP</dc:publisher>
+<dc:title>Sociological Theory</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">180728</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>1045596725</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Collins, Randall</dc:contributor>
+<dc:date>1984</dc:date>
+<dc:format>xxi, 428 s</dc:format>
+<dc:identifier>0875895875</dc:identifier>
+<dc:identifier>9780875895871</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Jossey-Bass</dc:publisher>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">891101</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>474167156</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Goodman, Douglas J.</dc:contributor>
+<dc:creator>Ritzer, George.</dc:creator>
+<dc:date>2003</dc:date>
+<dc:description>6th ed., 'International edition' - front cover.</dc:description>
+<dc:description>Previous ed.: 2000.</dc:description>
+<dc:format>616p ; 23 cm.</dc:format>
+<dc:identifier>0071232672</dc:identifier>
+<dc:identifier>0072817186</dc:identifier>
+<dc:identifier>9780071232678</dc:identifier>
+<dc:identifier>9780072817188</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>McGraw-Hill</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociologists--Biography.</dc:subject>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">031222</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>1056019277</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Fararo, Thomas J.</dc:creator>
+<dc:date>2001</dc:date>
+<dc:format>1 online resource (x, 319 pages)</dc:format>
+<dc:identifier>9780313074110</dc:identifier>
+<dc:identifier>0313074119</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://public.eblib.com/choice/publicfullrecord.aspx?p=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://site.ebrary.com/id/10020835</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=182479</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://books.google.com/books?id=CyK5AAAAIAAJ</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/columbia/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://er.llcc.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;AN=182479</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/warw/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://ebookcentral.proquest.com/lib/ucm/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://site.ebrary.com/lib/rcc/Doc?id=10020835</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://ebookcentral.proquest.com/lib/stanford-ebooks/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://gold.worcester.edu/login?url=http://site.ebrary.com/lib/worcesteruniv/Doc?id=10020835</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;AN=182479</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://0-search.ebscohost.com.librarycatalog.vts.edu/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;AN=182479</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://0-ebookcentral.proquest.com.librarycatalog.vts.edu/lib/vtu/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/northernlakes-ebooks/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/norquest-ebooks/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/oldscollege/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/concordiaab-ebooks/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/gprc-ebooks/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/macewan-ebooks/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/rdc/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://site.ebrary.com/lib/aunigeria/Doc?id=10020835</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://ebookcentral.proquest.com/lib/ben/detail.action?docID=3000719</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=e000xna&amp;AN=182479</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://proxy-clarion.klnpa.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=182479</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://ebookcentral.proquest.com/lib/uvic/detail.action?docID=3000719</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Praeger</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Parsons, Talcott, 1902-1979.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Homans, George Caspar, 1910-1989.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social systems.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Action theory.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>Social action systems : foundation and synthesis in sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">010323</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>70769432</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Lemert, Charles C., 1937-</dc:creator>
+<dc:date>1980, ©1979</dc:date>
+<dc:description>Homocentrism and sociological discourse -- Axiomatic explanation: George Homans -- Theory constructionism: Hubert Blalock -- Analytic realism: Talcott Parsons -- Symbolic interactionism: Herbert Blumer -- Phenomenological sociology: Schutz/Berger/Luckmann -- Ethnomethodology: Aaron Cicourel -- Critical theory: Juergen Habermas -- Homocentric sociology in the twilight.</dc:description>
+<dc:format>1 online resource (xiii, 276 pages).</dc:format>
+<dc:identifier>0585282676</dc:identifier>
+<dc:identifier>9780585282671</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=22484</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://login.lacollegelibrary.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;AN=22484</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;AN=22484</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://0-search.ebscohost.com.librarycatalog.vts.edu/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;AN=22484</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=e000xna&amp;AN=22484</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://libproxy.library.unt.edu/login?url=http://www.netLibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=22484"; target="_blank</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://elib.southwest.tn.edu:3443/login?url=http://www.netlibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=22484</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Southern Illinois University Press</dc:publisher>
+<dc:relation>Perspectives in sociology</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Sociology and the twilight of man : homocentrism and discourse in sociological theory </dc:title>
+<dc:type>Electronic books.</dc:type>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">001009</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>45731353</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Helle, Horst J.</dc:contributor>
+<dc:contributor>Eisenstadt, Shmuel Noah.</dc:contributor>
+<dc:date>1986</dc:date>
+<dc:format>IX, 170 str. ; 22 cm.</dc:format>
+<dc:identifier>0803997159</dc:identifier>
+<dc:identifier>9780803997158</dc:identifier>
+<dc:identifier>0803997140</dc:identifier>
+<dc:identifier>9780803997141</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Sage</dc:publisher>
+<dc:relation>Sage studies in international sociology ; 34</dc:relation>
+<dc:title>Perspectives on sociological theory. Vol. 2, Micro-sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">981006</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>441862556</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Calhoun, Craig,</dc:contributor>
+<dc:date>2009</dc:date>
+<dc:description>2nd ed., reprint.</dc:description>
+<dc:format>XII, 496 Seiten ; 25 cm.</dc:format>
+<dc:identifier>9781405148542</dc:identifier>
+<dc:identifier>1405148543</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Blackwell</dc:publisher>
+<dc:relation>The sociological theory reader ; 1</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>Classical sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">091102</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>553386995</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Vine, Margaret Wilson.</dc:creator>
+<dc:date>[1969]</dc:date>
+<dc:description>[2d ed.].</dc:description>
+<dc:description>Emphasizes American sociological theory and thos European theorists who have exerted most influence in America.</dc:description>
+<dc:format>1 online resource (xvii, 382 pages)</dc:format>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://books.google.com/books?id=sYVHAQAAIAAJ</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://books.google.com/books?id=pw4-AAAAIAAJ</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://catalog.hathitrust.org/api/volumes/oclc/23605.html</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>D. McKay Co</dc:publisher>
+<dc:relation>Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002.</dc:relation>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://purl.oclc.org/DLF/benchrepro0212</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Sociology.</dc:subject>
+<dc:title>An introduction to sociological theory.</dc:title>
+<dc:title>Sociological theory</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">110510</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>722140455</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Ritzer, George, (1940- ...).,</dc:creator>
+<dc:date>1993</dc:date>
+<dc:description>3rd ed.</dc:description>
+<dc:format>xxv, 608 p. ; 23 cm</dc:format>
+<dc:identifier>0070529736</dc:identifier>
+<dc:identifier>9780070529731</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Mc Graw-Hill</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociologists--Biography.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>Contemporary sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">940225</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>490113591</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Badcock, C. R.</dc:creator>
+<dc:date>2015, c1975</dc:date>
+<dc:description>"First published in 1975. This edition first published in 2015"--T.p. verso.</dc:description>
+<dc:format>125 p. ; 25 cm.</dc:format>
+<dc:identifier>9781138784253 (hbk. : v. 39)</dc:identifier>
+<dc:identifier>1138784257 (hbk. : v. 39)</dc:identifier>
+<dc:identifier>9781315763798 (ebk. : v. 39)</dc:identifier>
+<dc:identifier>1315763796 (ebk. : v. 39)</dc:identifier>
+<dc:identifier>9780415727310 (hbk. : set)</dc:identifier>
+<dc:identifier>0415727316 (hbk. : set)</dc:identifier>
+<dc:identifier>9781315769974 (ebk. : set)</dc:identifier>
+<dc:identifier>1315769972 (ebk. : set)</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:relation>Routledge library editions : social theory ; v. 39</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Lévi-Strauss, Claude.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Structuralism.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social structure.</dc:subject>
+<dc:title>Lévi-Strauss : structuralism and sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">760319</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>918215421</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Marshall, Barbara L.</dc:contributor>
+<dc:contributor>Witz, Anne, 1952-2006.</dc:contributor>
+<dc:date>©2004</dc:date>
+<dc:description>Contributions resulted from a series international meetings on feminism and sociological theory since 1998.</dc:description>
+<dc:description>Annotation The focus of this edited volume is on the problematic engendering of classical and contemporary sociological theory. Feminist interventions in sociology continue to be regarded as marginal to sociological theorizing, resulting in a truncated vision of sociological theory. This collection challenges an outdated vision of sociology.</dc:description>
+<dc:description>Annotation.</dc:description>
+<dc:description>Introduction: faminist encounters with sociological theory / Anne Witz and Barbara L. Marshall -- The masculinity of the social: towards a politics of interrogation / Anne Witz and Barbara L. Marshall -- Sex and the sociological fathers / R.A. Sydie -- Elective affinities: Georg Simmel and Marianne Weber on gender and modernity / Theresa Wobbe -- More sociological than the sociologists? Undisciplined and undisciplinary thinking about society and modernity in the nineteenth century / Caroline Arni and Charlotte Müller -- Feminizing the citizen: British sociology's sleight of hand? / Eileen Janes Yeo -- Illegitimate daughters: the relationship between feminism and sociology / Ute Gerhard -- Gender and the post-structural social / Lisa Adkins -- Rethinking the revival of social capital and trust in social theory: possibilities for feminist analysis / Anne Kovalainen -- Situated intersubjectivity / Lois McNay.</dc:description>
+<dc:format>ix, 223 pages ; 24 cm</dc:format>
+<dc:identifier>0335212700</dc:identifier>
+<dc:identifier>9780335212705</dc:identifier>
+<dc:identifier>0335212697</dc:identifier>
+<dc:identifier>9780335212699</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Open University Press</dc:publisher>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://media.obvsg.at/AC05190104-1002</dc:relation>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">https://www.dawsonera.com/guard/protected/dawson.jsp?name=https://passport01.leeds.ac.uk/idp/shibboleth&amp;dest=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780335226344</dc:relation>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://lib.leeds.ac.uk/record=b3272962</dc:relation>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://lib.leeds.ac.uk/search/febook3272962</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Feminist theory--Congresses.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy--Congresses.</dc:subject>
+<dc:title>Engendering the social : feminist encounters with sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">940321</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>56527256</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Sztompka, Piotr.</dc:creator>
+<dc:date>2006</dc:date>
+<dc:description>Transferred to digital print.</dc:description>
+<dc:format>XII, 214 Seiten : Diagramme.</dc:format>
+<dc:identifier>9780521591447</dc:identifier>
+<dc:identifier>0521591449</dc:identifier>
+<dc:identifier>9780521598507</dc:identifier>
+<dc:identifier>0521598508</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Cambridge Univ. Press</dc:publisher>
+<dc:relation>Cambridge cultural social studies</dc:relation>
+<dc:title>Trust : a sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">081110</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   00266562 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>315901495</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Waters, Malcolm, 1946-</dc:creator>
+<dc:date>2000, cop. 1994</dc:date>
+<dc:format>XII, 368 str. : graf. prikazi ; 24 cm.</dc:format>
+<dc:identifier>0803985320</dc:identifier>
+<dc:identifier>9780803985322</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Sage</dc:publisher>
+<dc:subject>Sociologija.</dc:subject>
+<dc:subject>Sociology.</dc:subject>
+<dc:subject>Sociološke teorije.</dc:subject>
+<dc:subject>Sociological theories.</dc:subject>
+<dc:subject>Sociološke smeri.</dc:subject>
+<dc:subject>Sociological orientation.</dc:subject>
+<dc:title>Modern sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">090202</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>443605828</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Collins, Randall</dc:contributor>
+<dc:date>1983</dc:date>
+<dc:format>XXIII, 355 Seiten</dc:format>
+<dc:identifier>0875895573</dc:identifier>
+<dc:identifier>9780875895574</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Jossey-Bass Publ</dc:publisher>
+<dc:relation>The American sociological association</dc:relation>
+<dc:title>Sociological theory 1983</dc:title>
+<dc:title>Sociological theory nineteen hundred and eightythree</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">960428</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>832548448</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Menzies, Kenneth.</dc:creator>
+<dc:date>2015</dc:date>
+<dc:description>Includes index.</dc:description>
+<dc:description>Central to most sociologists' self-image is the claim that their theories are based on research. However, using a random sample of 680 articles appearing in major American, British and Canadian journals, Dr Menzies shows that in some areas of sociology the wide gap between theory and research means that much of sociological theory is virtually untested. He explains how theory is embodied in eight particular types of research, critically examines these research theories, and contrasts them with the positions of modern theorists. The sample of journal articles also permits a comparison of Britis.</dc:description>
+<dc:description>Cover; Half Title; Title Page; Copyright Page; Original Title Page; Original Copyright Page; Table of Contents; Preface The theorist as fortune teller; Acknowledgements; One Introduction: theoreticians'' theory and research theory; The theory-research gap; Objectives; The sampling strategy; An outline of the book; Two Functionalism: hunch or implausibility; Research functionalism -- an unfinished explanation; Social change; Testing research functionalism; Beyond functionalism; Theoreticians' functionalism; Conclusion; Three Symbolic interaction: voluntaristic interpretive description.</dc:description>
+<dc:description>Classic symbolic interactionist analysesA dramaturgical analogy; The symbolic interactionist attack on conventional research; The basic structure of modern symbolic interaction research; Interaction; Evaluating symbolic interactionist accounts; Voluntarism; Interpretative description; The direction of symbolic interactionist research; Criticisms of symbolic interaction; The dialectic between symbolic interaction and other sociological approaches; Conclusion; Four Causal role theory: people as products and creators of their worlds; Defining role; Role theory in consensual situations.</dc:description>
+<dc:description>Labelling theoryRole conflict and strain; The social construction of reality and the pluralisation of world-views; Reference groups; Conclusion; Five Men''s interests: war and peace; Research interest theories; Implications of the attribution of interests by position or values; Housing classes; Radical sociology; Exchange theory; The potential of interest theory; The limits of rationality; Theoreticians' interest theory; Conclusion; Six Action theory, or a person''s got to do what his attitudes say he''s got to do, cetera cum praetermitti possint; The nature of attitudes.</dc:description>
+<dc:description>Attitudes and behaviourResearch action theory; Step 1 Ascertain attitudes; Step 2 People's perception of the situation; Step 3 Opportunity structure; Step 4 Factors affecting the attitude-behaviour link; Step 5 The principle of contented inertia; Subcultures; Conclusion; Seven Middle-range theory: a realist view; Sociological variables; Research middle-range theory; Factor analysis and the identification of sociological variables; Assessing and integrating middle-range theories; Theoreticians' middle-range theory; Conclusion; Eight Attainment studies: the concern for equality of opportunity.</dc:description>
+<dc:description>Occupational status scoresResources and constraints; Assumptions of path analysis; Types of attainment studies; The theoretical import of attainment studies; Conclusion; Nine Uses and abuses of great men: a cautionary tale; The potential realised; Abuses; Conclusion; Ten A quantitative view of current sociology; The theory-research gap; Current sociological concerns; International comparison; Trends in the 1970s; What sociologists teach; Eleven Conclusion; Appendix Implementing the sampling strategy; Coding rules and category definitions; The sample articles classified; Notes; Bibliography.</dc:description>
+<dc:format>1 online resource (265 pages).</dc:format>
+<dc:identifier>9781317657194</dc:identifier>
+<dc:identifier>1317657195</dc:identifier>
+<dc:identifier>9781315765358</dc:identifier>
+<dc:identifier>1315765357</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://public.eblib.com/choice/publicfullrecord.aspx?p=1770573</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://site.ebrary.com/id/10913302</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=835245</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://www.tandfebooks.com/isbn/9781315765358</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:relation>Routledge Library Editions: Social Theory</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Methodology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Research--Evaluation.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Research.</dc:subject>
+<dc:title>Sociological theory in use </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">140830</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>889674578</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:date>2018</dc:date>
+<dc:format>p. cm.</dc:format>
+<dc:identifier>1681178346</dc:identifier>
+<dc:identifier>9781681178349</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>SCITUS ACADEMICS LLC</dc:publisher>
+<dc:title>INVESTIGATING SOCIOLOGICAL THEORY.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">170703</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>992577844</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Sydie, R. A.</dc:contributor>
+<dc:creator>Adams, Bert N.</dc:creator>
+<dc:date>2002</dc:date>
+<dc:description>""The strengths of this text are the breadth of theories covered; the integration of gender-related topics3D family, work, religion; the use of substantial quotes from primary texts; the consistent inclusion of methodological issues ... I have no doubt that it will find a solid position in the field of theory texts.""--Kathleen Slobin, North Dakota State University.</dc:description>
+<dc:description>Cover; Brief Contents; Detailed Contents; Preface; A Note to Students; Chapter 1 -- Introduction to Contemporary Sociological Theory; Section I -- Twentieth-Century Functionalism and Beyond; Chapter 2 -- Twentieth-Century Functionalism Parsons and Merton; Chapter 3 -- Systems, Structuration, and Modernity: Luhmann and Giddens; Section II -- Criticism, Marxism, and Change; Chapter 4 -- Critical Theory: The Frankfurt School and Habermas; Chapter 5 -- Marxism Since 1930: Poulantzas, Althusser, Dunayevskaya, and Wright.</dc:description>
+<dc:description>Chapter 6 -- Sociocultural Change: Evolution, World System, and Revolution: Service, Wallerstein, and SkocpolSection III -- Transitions and Challenges; Chapter 7 -- Mid-Twentieth-Century Sociology; Chapter 8 -- Symbolic Interactionism: Blumer, Goffman, and Hochschild; Chapter 9 -- Rational Choice and Exchange: Coleman; Chapter 10 -- Feminist Sociological Theory: Smith and Collins; Chapter 11 -- Knowledge, Truth, and Power: Foucault and Feminist Responses; Chapter 12 -- Final Thoughts on Contemporary Sociological Theory; Credits; Index.</dc:description>
+<dc:format>1 online resource (305 pages)</dc:format>
+<dc:identifier>9781452244815</dc:identifier>
+<dc:identifier>1452244812</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://public.eblib.com/choice/publicfullrecord.aspx?p=1630920</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=699195</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>SAGE Publications</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Contemporary Sociological Theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">140215</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>870589301</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Stepnisky, Jeffrey,</dc:contributor>
+<dc:creator>Ritzer, George,</dc:creator>
+<dc:description>Fifth edition.</dc:description>
+<dc:description>Revised edition of the author's Contemporary sociological theory and its classical roots, c2013.</dc:description>
+<dc:description>This introductory text to sociology theory defines the nature of sociology theory, discusses some of the controversy surrounding the traditional definition of theory, analyses the alternate perspective and offers non-traditional (multicultural) examples.</dc:description>
+<dc:description>About the authors -- Introduction to sociological theory -- Classical theories I -- Classical theories II -- Contemporary grand theories I -- Contemporary grand theories II -- Contemporary theories of everyday life -- Contemporary integrative theories -- Contemporary feminist theories by patricia madoo lengermann and gillian niebrugge -- Theories of race and colonialism -- Globalization theory -- Glossary -- Index.</dc:description>
+<dc:format>xviii, 422 pages ; 23 cm</dc:format>
+<dc:identifier>9781506339412</dc:identifier>
+<dc:identifier>1506339417</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:title>Contemporary sociological theory and its classical roots : the basics </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">170727</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2017034705</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>995630381</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:date>1997-</dc:date>
+<dc:identifier>1467-9558</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Blackwell</dc:publisher>
+<dc:relation>Wiley Online Library (Servicio en línea)</dc:relation>
+<dc:subject>Sociologia--Publicaciones periódicas electrónicas.</dc:subject>
+<dc:title>Sociological theory</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">130627</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>932833193</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Wallace, Walter L.</dc:contributor>
+<dc:date>[2008]</dc:date>
+<dc:format>xiv, 296 p. : illustrations ; 23 cm</dc:format>
+<dc:identifier>0202362108</dc:identifier>
+<dc:identifier>9780202362106</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>AldineTransaction</dc:publisher>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">080404</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2008015395</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>938136209</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Dixon, Keith.</dc:creator>
+<dc:date>2016</dc:date>
+<dc:identifier>1138982458</dc:identifier>
+<dc:identifier>9781138982451</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:title>Sociological theory : pretence and possibility.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">160229</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>941876764</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Gehlke, Charles Elmer, 1884-</dc:creator>
+<dc:description>1st AMS edition.</dc:description>
+<dc:format>188 pages ; 23 cm.</dc:format>
+<dc:identifier>9781313145862</dc:identifier>
+<dc:identifier>1313145866</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:relation>Studies in History, Economics, and Public Law ; v. 63, no. 1; whole no. 151----- Columbia studies in the social sciences ; no. 151</dc:relation>
+<dc:subject>Durkheimian school of sociology.</dc:subject>
+<dc:subject>Sociology.</dc:subject>
+<dc:title>Emile Durkheim's contributions to sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">141107</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>894633213</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Cohen, Elizabeth G., 1931-2005.</dc:contributor>
+<dc:contributor>Lotan, Rachel A.</dc:contributor>
+<dc:date>©1997</dc:date>
+<dc:description>This volume provides the theory and research on which Elizabeth Cohen's Designing Groupwork: Strategies for the Heterogeneous Classroom (1994), now a classic resource in curriculum, was based. Working for Equity in Heterogeneous Classrooms documents, with systematic data collection and analysis, how it is possible to abolish ability grouping without sacrificing the intellectual challenge of the curriculum. This unique illustration of the practical application of sociological theory and research strategies shows how they can be utilized in reconstructing classrooms to simultaneously achieve goals of equity and development of higher order thinking. The innovation of this approach, Complex Instruction (CI), has a systematic knowledge base that permits examination of implementation, staff development, equal-status interaction, and outcomes of achievement and cognitive development. The work of this group of researchers is testimony to the exciting potential that sociological theory and research have for the field of education. ... Publisher description.</dc:description>
+<dc:description>1. Equity in Heterogeneous Classrooms: A Challenge for Teachers and Sociologists / Elizabeth G. Cohen -- 2. Complex Instruction: An Overview / Rachel A. Lotan -- 3. Organizing the Classroom for Learning / Elizabeth G. Cohen, Rachel A. Lotan and Nicole C. Holthuis -- 4. The Power in Playing the Part / Dey E. Ehrlich and Marcia B. Zack -- 5. Understanding Status Problems: Sources and Consequences / Elizabeth G. Cohen -- 6. Raising Expectations for Competence: The Effectiveness of Status Interventions / Elizabeth G. Cohen and Rachel A. Lotan -- 7. The Effect of Gender on Interaction, Friendship, and Leadership in Elementary School Classrooms / Anita Leal-Idrogo -- 8. Principles of a Principled Curriculum / Rachel A. Lotan -- 9. Effects of the Multiple-Ability Curriculum in Secondary Social Studies Classrooms / Bert Bower -- 10. What Did Students Learn?: 1982-1994 / Elizabeth G. Cohen, Julie A. Bianchini and Ruth Cossey [and others] -- 11. Sociologists in the Land of Testing / Elizabeth G. Cohen -- 12. The Relationship of Talk and Status to Second Language Acquisition of Young Children / H. Andrea Neves -- 13. Complex Instruction and Cognitive Development / Rachel Ben-Ari -- 14. Teachers as Learners: Feedback, Conceptual Understanding, and Implementation / Nancy E. Ellis and Rachel A. Lotan -- 15. Principals, Colleagues, and Staff Developers: The Case for Organizational Support / Rachel A. Lotan, Elizabeth G. Cohen and Christopher C. Morphew -- 16. Linking Sociological Theory to Practice: An Intervention in Preservice Teaching / Patricia E. Swanson -- 17. Organizational Factors and the Continuation of a Complex Instructional Technology / Rene F. Dahl -- 18. A Viewpoint on Dissemination / Nikola N. Filby.</dc:description>
+<dc:format>xi, 317 pages : illustrations ; 24 cm.</dc:format>
+<dc:identifier>0807736449</dc:identifier>
+<dc:identifier>9780807736449</dc:identifier>
+<dc:identifier>0807736430</dc:identifier>
+<dc:identifier>9780807736432</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Teachers College Press</dc:publisher>
+<dc:relation>Sociology of education series</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Mixed ability grouping in education.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Group work in education.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Educational equalization.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Educational sociology.</dc:subject>
+<dc:title>Working for equity in heterogeneous classrooms : sociological theory in practice </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">970505</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   97020465 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>36949798</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Woolfolk, Alan.</dc:contributor>
+<dc:contributor>Imber, Jonathan B., 1952-</dc:contributor>
+<dc:contributor>EBSCO Publishing (Firm)</dc:contributor>
+<dc:creator>Masaryk, T. G. (Tomáš Garrigue), 1850-1937.</dc:creator>
+<dc:date>©1994</dc:date>
+<dc:format>xvi, 370 pages ; 24 cm</dc:format>
+<dc:identifier>156000164X</dc:identifier>
+<dc:identifier>9781560001645</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.epnet.com/direct.asp?db=slh&amp;jid=%22FF4%22&amp;scope=site</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Transaction Publishers</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>Constructive sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">050107</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>57382941</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Meyer, Henry Joseph, 1913-</dc:contributor>
+<dc:creator>Borgatta, Edgar F., 1924-</dc:creator>
+<dc:date>1961 [©1956]</dc:date>
+<dc:format>546 pages 24 cm</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Knopf</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Sociological theory; present-day sociology from the past,</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">850103</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>11539975</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Gibbs, Jack P.</dc:creator>
+<dc:date>1972</dc:date>
+<dc:description>Literaturverz. S. [389] - 405.</dc:description>
+<dc:format>416 Seiten : Diagramme</dc:format>
+<dc:identifier>0030891620</dc:identifier>
+<dc:identifier>9780030891625</dc:identifier>
+<dc:identifier>0030891868</dc:identifier>
+<dc:identifier>9780030891861</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Dryden Press</dc:publisher>
+<dc:subject>Soziologische Theorie.</dc:subject>
+<dc:title>Sociological theory construction </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">981123</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>246031221</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Handel, Warren H.</dc:creator>
+<dc:date>©1993</dc:date>
+<dc:format>XI, 240 p. ; 24 cm</dc:format>
+<dc:identifier>0131754238</dc:identifier>
+<dc:identifier>9780131754232</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Prentice Hall</dc:publisher>
+<dc:subject>Sociological theories.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Contemporary sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">930423</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>782146525</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Gross, Llewellyn,</dc:contributor>
+<dc:date>©1959</dc:date>
+<dc:format>ix, 542 pages</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Harper &amp; Row</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Symposium on sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">150624</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>959738701</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Appelrouth, Scott, 1965-</dc:contributor>
+<dc:contributor>Edles, Laura Desfor,</dc:contributor>
+<dc:description>Third edition</dc:description>
+<dc:description>Table of contents Chapter 1: Introduction What Is Sociological Theory? Why Read Original Works? Who Are Sociology's Core Theorists? Who are Sociology's Core Contemporary Theorists? How Can We Navigate Sociological Theory? Discussion Questions Chapter 2: Structural Functionalism Talcott C. Parsons (1902-1979): A Biographical Sketch Parson's Intellecutal Influences and Core Ideas Parson's Theoretical Orientation Readings Categories of the Orientation and Organization of Action (1951) Sex Roles in the American Kinship System (1943) Robert K. Merton (1910-2003): A Biographical Sketch Merton's Intellectual Influences and Core Ideas Merton's Theoretical Orientation Readings Manifest and Latent Functions (1949) Social Structure and Anomie (1967) Discussion Questions Chapter 3: Critical Theory Mark Horkheimer, Theodor Adorno, and Herbert Marcuse: Biographical Sketches Horkheimer's, Adorno's, and Marcuse's Intellectual Influences and Core Ideas Horkheimer's, Adorno'a, and Marcuse's Theoretical Orientations Readings Eclipse of Reason (1947) The Culture Industry Reconsidered (1975) One-Dimensional Man (1964) Jurgen Habermas (1929- ): A Biographical Sketch Habermas's Intellectual Influences and Core Ideas Habermas's Theoretical Orientation Readings Civil Society, Public Opinion, and Communicative Power (1996) The Tasks of a Critical Theory of Society (1987) Patricia Hill Collins (1948- ): A Biographical Sketch Collins's Intellectual Influences and Core Ideas Collins's Theoretical Orientation Reading Black Feminist Thought (1990) Discussion Questions</dc:description>
+<dc:description>Chapter 4: Exchange and Rational Choice Theories George C. Homans (1910-1989): A Biographical Sketch Homan's Intellectual Influences and Core Ideas Homan's Theoretical Orientation Reading Social Behavior as Exchange (1958) Peter M. Blau (1918-2002): A Biographical Sketch Blau's Intellectual Influences and Core Ideas Blau's Theoretical Orientation Reading Exchange and Power in Social Life (1964) James S. Coleman (1926-1995): A Biographical Sketch Coleman's Intellectual Influences and Core Ideas Coleman's Theoretical Orientation Reading Social Capital in the Creation of Human Capital (1988) Discussion Questions Chapter 5: Symbolic Interactionism and Dramaturgy Herbert Blumer (1900-1987): A Biographical Sketch Blumer's Intellectual Influences and Core Ideas Blumer's Theoretical Orientation Reading The Methodological Position of Symbolic Interactionism (1969) Erving Goffman (1922-1982): A Biographical Sketch Goffman's Intellectual Influences and Core Ideas Goffman's Theoretical Orientation Readings The Presentation of the Self in Everyday Life (1959) Asylums (1961) Arlie Russell Hochschild (1940- ): A Biographical Sketch Hochschild's Intellectual Influences and Core Ideas Hochschild's Theoretical Orientation Readings Working on Feeling (2003) The Managed Heart (1983) Discussion Questions Chapter 6: Phenomenology and Ethnomethodology Alfred Schutz (1899-1959): A Biographical Sketch Schutz's Intellectual Influences and Core Ideas Schutz's Theoreitcal Orientation Reading The Phenomenology of the Social World (1967) Peter Berger and Thomas Luckmann: Biographical Sketches Berger and Luckmann's Intellectual Influences and Core Ideas Berger and Luckmann's Theoretial Orientation Reading The Social Construction of Reality (1966) Harold Garfinkle (1917- ): A Biographical Sketch Garfinkle's Intellectual Influences and Core Ideas Garfinkle's Theoretical Orientation Reading Studies in Ethnomethodology (1967) Dorothy E. Smith (1926- )</dc:description>
+<dc:description>From Parsons, Habermas and Hochschild through to Foucault, Butler and Giddens, this popular text/reader hybrid combines the major writings of sociology's core contemporary theorists with an historical and theoretical framework for understanding them. It enables students to compare and contrast core concepts and ideas, while also stressing contemporary applications</dc:description>
+<dc:format>xx, 655 s. : illustrations</dc:format>
+<dc:identifier>9781452203607</dc:identifier>
+<dc:identifier>1452203601</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>Sociological theory in the contemporary era : text and readings </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">151213</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2015027854</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>932112859</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Kimmel, Michael S. 1951-</dc:contributor>
+<dc:date>2007</dc:date>
+<dc:description>2. ed.</dc:description>
+<dc:format>XII, 420 Seiten ; 24 cm</dc:format>
+<dc:identifier>9780195187854</dc:identifier>
+<dc:identifier>0195187857</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Oxford Univ. Press</dc:publisher>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=1987738&amp;custom_att_2=simple_viewer</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Political science.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Classical sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">090306</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2006040136</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>698961332</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Mouzelis, Nicos P.</dc:creator>
+<dc:date>2014</dc:date>
+<dc:identifier>134921762X</dc:identifier>
+<dc:identifier>9781349217625</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Palgrave Macmillan</dc:publisher>
+<dc:title>Back to sociological theory : the construction of social orders.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">160118</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>935190161</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Gross, Llewellyn.</dc:creator>
+<dc:date>1975</dc:date>
+<dc:format>3 98 pages</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Allied Publishers</dc:publisher>
+<dc:subject>Sociological.</dc:subject>
+<dc:title>Sociological theory : inquiries and paradigms.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">111114</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>760861696</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Sydie, R. A. (Sydie, Rosalind A)</dc:contributor>
+<dc:date>1996</dc:date>
+<dc:description>Reprint.</dc:description>
+<dc:description>Originalår: 1987</dc:description>
+<dc:format>x, 268 s. ; 24 cm</dc:format>
+<dc:identifier>0335155138</dc:identifier>
+<dc:identifier>9780335155132</dc:identifier>
+<dc:identifier>033515512X</dc:identifier>
+<dc:identifier>9780335155125</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Open University Press</dc:publisher>
+<dc:title>Natural women, cultured men : a feminist perspective on sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">140310</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>476744269</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Small, Albion Woodbury.</dc:creator>
+<dc:date>[2008?]</dc:date>
+<dc:description>Optrykt efter udgaven Chicago, Ill. : The University of Chicago Press, 1905.</dc:description>
+<dc:format>739 s.</dc:format>
+<dc:identifier>1436856965</dc:identifier>
+<dc:identifier>9781436856966</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Kessinger Pub</dc:publisher>
+<dc:relation>Kessinger Publishing's rare reprints</dc:relation>
+<dc:title>General Sociology : an Exposition of the Main Development in Sociological Theory from Spencer to Ratzenhofer.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">091209</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>476094165</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Barnes, Barry.</dc:creator>
+<dc:date>2013</dc:date>
+<dc:format>1 online resource</dc:format>
+<dc:identifier>1299477933</dc:identifier>
+<dc:identifier>9781299477933</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://www.myilibrary.com?id=479043</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:title>Scientific Knowledge and Sociological Theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">130510</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>842888917</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Daynes, Sarah,</dc:contributor>
+<dc:creator>Allan, Kenneth, 1951-</dc:creator>
+<dc:description>Fourth edition.</dc:description>
+<dc:format>xv, 351 pages ; 26 cm</dc:format>
+<dc:identifier>9781483356693</dc:identifier>
+<dc:identifier>1483356698</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy--History.</dc:subject>
+<dc:title>Explorations in classical sociological theory : seeing the social world </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">160616</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2016017160</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>951854682</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Merton, Robert King, 1910-2003.</dc:creator>
+<dc:date>[196-]</dc:date>
+<dc:description>Reprinted from: British journal of sociology, v. 8, June 1957.</dc:description>
+<dc:format>pages 106-120 ; 28 cm.</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Bobbs-Merrill</dc:publisher>
+<dc:relation>Bobbs-Merrill reprint series in the social sciences ; S-193</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social role.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social status.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Methodology.</dc:subject>
+<dc:title>The role-set : problems in sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">931227</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>29552396</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Fitzi, Gregor,</dc:creator>
+<dc:description>Introduction: Georg Simmel and sociological grand theory -- Theory of modernity -- Sociological epistemology -- Sociology of culture -- Sociological anthropology -- Social ethics -- Outlook: oblivion and rediscovery -- Bibliography -- Index.</dc:description>
+<dc:format>1 online resource.</dc:format>
+<dc:identifier>9781315270937</dc:identifier>
+<dc:identifier>1315270935</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=1803057</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:relation>Routledge advances in sociology</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Simmel, Georg, 1858-1918.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>The challenge of modernity : Simmel's sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">180821</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>1049149908</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Alexander, Jeffrey C.</dc:creator>
+<dc:date>1987</dc:date>
+<dc:description>Includes index.</dc:description>
+<dc:format>[432] pages ; 22 cm</dc:format>
+<dc:identifier>0091728509</dc:identifier>
+<dc:identifier>9780091728502</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Hutchinson Education</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History--20th century.</dc:subject>
+<dc:title>Sociological theory since 1945 </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">870520</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>15195189</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Johnson, D. Paul.</dc:creator>
+<dc:date>2011</dc:date>
+<dc:description>Originally published: 2008.</dc:description>
+<dc:format>1 volume ; 24 cm</dc:format>
+<dc:identifier>9781441926258</dc:identifier>
+<dc:identifier>1441926259</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Springer</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>Contemporary sociological theory : an integrated multi-level approach </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">101018</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>751585312</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Abrutyn, Seth</dc:contributor>
+<dc:date>June 2017</dc:date>
+<dc:description>This Handbook provides the hidden common threads that tie sociological inquiry together and featuring eminent scholars, it separates itself from its predecessors in substance and organization. Rather than rehashing old debates or longingly gazing at the past, this book presents sociologists with new ways of conceptualizing the organization and presentation of sociological theory. At the heart of this Handbook's vision is the twin goals of making theory a viable enterprise by reconceptualizing how we teach theory and keeping theory closely tied to its empirical applications. Three strategies are offered: (1) Elucidating how classic issues like integration or interaction are interrogated today; (2) Presenting a coherent vision of the social levels of reality that theorists work on such as communities, groups, and the self as well as how the coherence of these levels speaks to the macro-micro link; and, (3) Theorizing the social world rather than celebrating theorists or theories; that is, one can look at how theory is used holistically to understand the constraints the social world places on our lived experience or the dynamics of social change. Hence, in the second decade of the 21st century, it has become clear that sociology is at a crossroads as the number of theorists and amount of theory available is increasingly unmanageable and unknowable by the vast majority of professionals and students. As such, this Handbook of Contemporary Sociological Theory presents the novice and the expert with the a roadmap for traversing this crossroad and building a more coherent, robust, and cumulative sociology.</dc:description>
+<dc:format>1 online resource.</dc:format>
+<dc:identifier>9783319616018</dc:identifier>
+<dc:identifier>3319616013</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://link.springer.com/openurl?genre=book&amp;isbn=978-3-319-61601-8</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://link.springer.com/openurl?genre=book&amp;isbn=978-3-319-61601-8</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Springer</dc:publisher>
+<dc:relation>Handbooks of Sociology and Social Research Ser.</dc:relation>
+<dc:title>Handbook of Contemporary Sociological Theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">170525</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>1004382604</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:format>Online-Ressource.</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:title>Theory the Newsletter of the Research Committee on Sociological Theory, International Sociological Assocation.</dc:title>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">130523</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>854714277</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Allan, Kenneth</dc:contributor>
+<dc:date>©2013</dc:date>
+<dc:description>3. ed.</dc:description>
+<dc:description>I. INTRODUCTIONS In the Beginning Was Modernity Defining Moments in Twentieth-Century Theory: Talcott Parsons and The Frankfurt School Talcott Parsons: Defining Sociology The Frankfurt School: The Problem with Sociology II. Individuals and Situations The Language of the Self -- Herbert Blumer Concepts and Theory: Society and Sociology Imaging the Self -- Erving Goffman SELF-IMAGE Theorist's Digest Concepts and Theory: Impression Management Concepts and Theory: The Encounter Concepts and Theory: Frames and Keys Concepts and Theory: The Interaction Order Achieving Social Order SOCIAL CONSTRUCTIVISM Theorist's Digest Concepts and Theory: Achieving Social Order Concepts and Theory: Reflexivity Social Exchanges Elementary Forms of Social Behavior: George Homans Theorist's Digest Concepts and Theory: Basic Principles of Behavioral Psychology Social Exchanges and Power: Peter Blau Theorist's Digest Concepts and Theory: Social Exchanges Concepts and Theory: Creating Power and Social Structures Ritualized Exchanges: Randall Collins Theorist's Digest.</dc:description>
+<dc:format>466 p.</dc:format>
+<dc:identifier>9781412992770</dc:identifier>
+<dc:identifier>141299277X</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>SAGE Publications</dc:publisher>
+<dc:subject>Sociologisk teori</dc:subject>
+<dc:title>Contemporary social and sociological theory : visualizing social worlds</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">140316</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>851635464</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Boudon, Raymond, 1934-</dc:contributor>
+<dc:contributor>Cherkaoui, Mohamed.</dc:contributor>
+<dc:date>2000</dc:date>
+<dc:description>In slip case.</dc:description>
+<dc:format>4 volumes (xliii, 348 pages, 399 pages, 420 pages, 423 pages) : illustrations ; 25 cm.</dc:format>
+<dc:identifier>0761962417</dc:identifier>
+<dc:identifier>9780761962410</dc:identifier>
+<dc:identifier>0761962999</dc:identifier>
+<dc:identifier>9780761962991</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>SAGE</dc:publisher>
+<dc:relation>Central currents in social theory ; v.1-4</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social sciences--Philosophy.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:title>The roots of sociological theory, 1700-1920 </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">050424</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>59417339</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Zdravomyslov, Andrej Grigorʹevič.</dc:contributor>
+<dc:date>1986</dc:date>
+<dc:description>Bibliogr. à la fin de chaque ch. Index.</dc:description>
+<dc:format>125 p. ; 23 cm.</dc:format>
+<dc:identifier>0803980027</dc:identifier>
+<dc:identifier>9780803980020</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Sage</dc:publisher>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://catalogue.bnf.fr/ark:/12148/cb374085110</dc:relation>
+<dc:relation>Sage studies in international sociology ; 35</dc:relation>
+<dc:title>Developments in marxist sociological theory : modern social problems and theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">931209</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>468505385</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Knapp, Peter (Peter Hazard)</dc:creator>
+<dc:date>©1994</dc:date>
+<dc:format>xvi, 460 pages : illustrations ; 25 cm</dc:format>
+<dc:identifier>0065012186</dc:identifier>
+<dc:identifier>9780065012187</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>HarperCollins College Publishers</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>One world--many worlds : contemporary sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">930820</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   93036253 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>28798191</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Appelrouth, Scott, 1965-</dc:contributor>
+<dc:creator>Edles, Laura Desfor.</dc:creator>
+<dc:description>Third edition.</dc:description>
+<dc:format>ix, 453 pages ; 26 cm</dc:format>
+<dc:identifier>9781452203614</dc:identifier>
+<dc:identifier>145220361X</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociologists--Biography.</dc:subject>
+<dc:title>Sociological theory in the classical era : text and readings </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">140821</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2014031195</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>889426291</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Natalia Canto Mila.</dc:creator>
+<dc:date>2015</dc:date>
+<dc:format>1 online resource</dc:format>
+<dc:identifier>3839403731</dc:identifier>
+<dc:identifier>9783839403730</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://www.myilibrary.com?id=905178</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=4347982</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://ebookcentral.proquest.com/lib/ucm/detail.action?docID=4347982</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://library.icc.edu/login?url=https://ebookcentral.proquest.com/lib/illcencol-ebooks/detail.action?docID=4347982</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Transcript-Verlag</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Simmel, Georg, 1858-1918.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Germany.</dc:subject>
+<dc:title>Sociological theory of value.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">160204</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>937423587</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Boskoff, Alvin.</dc:contributor>
+<dc:contributor>Adler, Franz, 1908-1983.</dc:contributor>
+<dc:contributor>Becker, Howard Paul, 1899-1960.</dc:contributor>
+<dc:date>©1966, ©1957</dc:date>
+<dc:format>xiii, 756 pages ; 24 cm</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Holt, Reinhart and Winston</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Modern sociological theory in continuity and change </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">901203</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>22878184</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Levine, Rhonda F.</dc:contributor>
+<dc:contributor>Lembcke, Jerry, 1943-</dc:contributor>
+<dc:date>1987</dc:date>
+<dc:description>Marxism, Neo-Marxism, and U.S. sociology / by Rhonda F. Levine and Jerry Lembcke -- Crisis and vitalization / by Albert Szymanski -- New classes and old theories / by Peter Meiksins -- Class and class capacities / by Jerry Lembcke -- Bringing classes back in / by Rhonda F. Levine -- The limits of the world-system perspective / by Alex Dupuy and Barry Truchil -- Race, ethnicity, and class / by James A. Geschwender -- Recent ideological tendencies in urban and regional research / by Richard Peet -- Behind the veil of neutrality / by Peter Seybold -- Feminism / by Albert Szymanski -- Thinking about social class / by Scott G. McNall.</dc:description>
+<dc:format>viii, 255 pages : illustrations ; 25 cm</dc:format>
+<dc:identifier>0275925765</dc:identifier>
+<dc:identifier>9780275925765</dc:identifier>
+<dc:identifier>0275926389</dc:identifier>
+<dc:identifier>9780275926380</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Praeger</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Methodology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Marxian school of sociology.</dc:subject>
+<dc:title>Recapturing Marxism : an appraisal of recent trends in sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">870408</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   87011589 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>15592437</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Boskoff, Alvin.</dc:creator>
+<dc:date>1972</dc:date>
+<dc:format>276 pages</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Thomas Y Cromwell</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>The mosaic of sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">820512</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>827629289</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Rex, John,</dc:creator>
+<dc:format>1 online resource (299 pages) : illustrations.</dc:format>
+<dc:identifier>9781315763668</dc:identifier>
+<dc:identifier>1315763664</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://site.ebrary.com/id/10913377</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://www.tandfebooks.com/isbn/9781315763668</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:relation>Routledge Library Editions : Social Theory ; Volume 16</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Methodology.</dc:subject>
+<dc:title>Discovering sociology : studies in sociological theory and method </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">140830</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>891383596</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Podgórecki, Adam.</dc:creator>
+<dc:date>1991</dc:date>
+<dc:format>XII, 273 Seiten.</dc:format>
+<dc:identifier>8814028621</dc:identifier>
+<dc:identifier>9788814028625</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Giuffrè</dc:publisher>
+<dc:relation>Seminario Giuridico della Università di Bologna / Miscellanee ; 11</dc:relation>
+<dc:title>A sociological theory of law </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">981203</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>231326107</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Johnson, Doyle Paul.</dc:creator>
+<dc:date>©1986</dc:date>
+<dc:format>xvii, 597 pages ; 24 cm</dc:format>
+<dc:identifier>0023606509</dc:identifier>
+<dc:identifier>9780023606502</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Macmillan </dc:publisher>
+<dc:publisher>Collier Macmillan</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:title>Sociological theory : classical founders and contemporary perspectives </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">900625</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>21915482</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Thomas, Franklin.</dc:creator>
+<dc:date>1965</dc:date>
+<dc:description>Originally published: New York : Century Co., 1925.</dc:description>
+<dc:format>vi, 336 pages ; 23 cm.</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Johnson Reprint Corp</dc:publisher>
+<dc:relation>Century social science series</dc:relation>
+<dc:relation>Landmarks in authroplopgy</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Nature--Effect of human beings on.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Human beings--Effect of environment on.</dc:subject>
+<dc:title>The environmental basis of society : a study in the history of sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">851216</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>220291371</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Larson, Calvin J.</dc:creator>
+<dc:date>©1993</dc:date>
+<dc:description>Pure and applied sociology : an historical overview -- Pure sociological theory -- Applied sociological theory -- Philosophical problems and issues in contemporary social science -- Ethics, morals, and values in sociological theory -- Social theory and social policy -- Summary, discussion, and conclusion.</dc:description>
+<dc:format>xiii, 172 pages ; 24 cm</dc:format>
+<dc:identifier>0030553482</dc:identifier>
+<dc:identifier>9780030553486</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Harcourt Brace Jovanovich College Publishers</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:title>Pure and applied sociological theory : problems and issues </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">000926</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   91078389 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>28275388</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Gilbert, G. Nigel.</dc:contributor>
+<dc:contributor>Abell, Peter, 1939-</dc:contributor>
+<dc:date>©1983</dc:date>
+<dc:format>vii, 190 pages : illustrations ; 23 cm.</dc:format>
+<dc:identifier>0566006200</dc:identifier>
+<dc:identifier>9780566006203</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Gower</dc:publisher>
+<dc:relation>Surrey conferences on sociological theory and method ; [1]</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social action--Congresses.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Discourse analysis--Congresses.</dc:subject>
+<dc:title>Accounts and action : Surrey conferences on sociological theory and method </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">850626</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   83177073 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>12312814</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Green, Bryan S. R.</dc:creator>
+<dc:date>1988</dc:date>
+<dc:format>viii, 302 pages ; 24 cm</dc:format>
+<dc:identifier>0226306127</dc:identifier>
+<dc:identifier>9780226306124</dc:identifier>
+<dc:identifier>0226306135</dc:identifier>
+<dc:identifier>9780226306131</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>University of Chicago Press</dc:publisher>
+<dc:subject>Simmel, Georg, 1858-1918--Criticism, Textual.</dc:subject>
+<dc:subject>Weber, Max, 1864-1920--Criticism, Textual.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Simmel, Georg, 1858-1918--Criticism, Textual.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Weber, Max, 1864-1920--Criticism, Textual.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Literary methods and sociological theory : case studies of Simmel and Weber </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">871124</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   87030256 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>17233995</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Abel, Theodore.</dc:creator>
+<dc:date>1980</dc:date>
+<dc:format>258 pages ; 21 cm</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Rewat Publicaions</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Foundation of sociological theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">111018</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>757486902</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:description>Interest grade level: 9 &amp; up.</dc:description>
+<dc:contributor>Discovery Education (Firm)</dc:contributor>
+<dc:contributor>Films Media Group,</dc:contributor>
+<dc:description>Originally released by Discovery Education (Firm), 2012.</dc:description>
+<dc:description>Streaming video file encoded with permission for digital streaming by Films Media Group on August 09, 2016.</dc:description>
+<dc:description>Title from distributor's description (Films Media Group, October 16, 2016).</dc:description>
+<dc:description>This film reviews the history of sociological theory including the contributions of foundational thinkers like Emile Durkheim, Karl Marx, and Max Weber. It provides an understanding of the three major theoretical perspectives- functionalism, conflict theory, and symbolic interactionism, identifies research methods used by sociologists, and explains how to develop a sociological hypotheses. The program discusses the American Sociological Association Code of Ethics and distinguishes between ethical and unethical social research practices.</dc:description>
+<dc:description>Origins of Sociology (4:03) -- Foundational Thinkers (4:41) -- Theoretical Perspectives (4:30) -- Developing Sociological Hypotheses (4:24) -- Research Methods (4:46) -- Ethical Research Practices (4:18).</dc:description>
+<dc:format>1 online resource (1 video file (26 min., 57 sec.)) : sound, color.</dc:format>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=106238&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://library.icc.edu/login?url=http://fod.infobase.com/PortalPlaylists.aspx?wID=18949&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=97463&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=238336&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=103244&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=79621&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=79191&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=99232&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=242518&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=102530&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://fod.infobase.com/PortalPlaylists.aspx?wID=104730&amp;xtid=117903</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">https://fod.infobase.com/PortalPlaylists.aspx?xtid=117903</dc:identifier>
+<dc:language>Closed-captioned.</dc:language>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:relation>Introduction to Sociology</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Sociological Theory and Research Methods </dc:title>
+<dc:type>Image</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">161128</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>965336404</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Karlsson, Georg, 1917-</dc:creator>
+<dc:date>[1959]</dc:date>
+<dc:format>156 pages illustrations 25 cm</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Free Press</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Mathematical models.</dc:subject>
+<dc:title>Social mechanisms; studies in sociological theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">791016</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>5527482</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Fletcher, Ronald.</dc:creator>
+<dc:date>1973</dc:date>
+<dc:format>XXV, 855 p. ; 23 cm.</dc:format>
+<dc:identifier>0684133172</dc:identifier>
+<dc:identifier>9780684133171</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Scribner</dc:publisher>
+<dc:relation>The making of sociology</dc:relation>
+<dc:title>The making of sociology : a study of sociological theory / Dl. 2, Developments.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">840905</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>769104264</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Turner, Jonathan H.</dc:creator>
+<dc:date>©2004</dc:date>
+<dc:format>xi, 205 pages : illustrations ; 23 cm</dc:format>
+<dc:identifier>0534651577</dc:identifier>
+<dc:identifier>9780534651572</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Wadsworth/Thomson Learning</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Positivism.</dc:subject>
+<dc:title>Classical sociological theory : a positivist's perspective </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">080831</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>244706274</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Kinloch, Graham Charles.</dc:creator>
+<dc:date>cop. 1977</dc:date>
+<dc:format>X, 319 str. : ilustr. ; 24 cm.</dc:format>
+<dc:identifier>0070347387</dc:identifier>
+<dc:identifier>9780070347380</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>McGraw-Hill</dc:publisher>
+<dc:subject>Sociologija.</dc:subject>
+<dc:subject>Sociology.</dc:subject>
+<dc:title>Sociological theory : its development and major paradigms </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">941220</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>780511342</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Maynard, Mary, 1950-</dc:creator>
+<dc:date>1990, ©1989</dc:date>
+<dc:description>Surveys the topic of sociological theory, examining both general theory and specific trends such as positivism and Marxism.</dc:description>
+<dc:format>102 pages ; 20 cm.</dc:format>
+<dc:identifier>0582004276</dc:identifier>
+<dc:identifier>9780582004276</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Longman</dc:publisher>
+<dc:relation>Sociology in focus series</dc:relation>
+<dc:title>Sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">100514</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   88013543 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>614427986</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>KUNDU, ABHIJIT.</dc:creator>
+<dc:date>2012</dc:date>
+<dc:identifier>8131760049</dc:identifier>
+<dc:identifier>9788131760048</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>PEARSON EDUCATION INDIA</dc:publisher>
+<dc:title>SOCIOLOGICAL THEORY.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">170628</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>991786524</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Bierstedt, Robert.</dc:creator>
+<dc:date>1975</dc:date>
+<dc:format>VIII, 330 p. ; 20 cm</dc:format>
+<dc:identifier>007005231X</dc:identifier>
+<dc:identifier>9780070052314</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>McGraw-Hill</dc:publisher>
+<dc:subject>Sociologia.</dc:subject>
+<dc:title>Power and progress : essays on sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">991229</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>797482560</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Kinloch, Graham C. (Graham Charles), 1943-</dc:creator>
+<dc:date>©1981</dc:date>
+<dc:format>1 online resource (xii, 194 pages) : illustrations.</dc:format>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://catalog.hathitrust.org/api/volumes/oclc/6532914.html</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Prentice-Hall</dc:publisher>
+<dc:relation>Prentice-Hall series in sociology</dc:relation>
+<dc:relation>Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002.</dc:relation>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://purl.oclc.org/DLF/benchrepro0212</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--United States.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Ideology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Knowledge, Sociology of.</dc:subject>
+<dc:title>Ideology and contemporary sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">100712</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>646825855</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Wright, Charles, 1943-</dc:creator>
+<dc:date>©1984</dc:date>
+<dc:format>xv, 207 pages ; 24 cm</dc:format>
+<dc:identifier>0819139939</dc:identifier>
+<dc:identifier>9780819139931</dc:identifier>
+<dc:identifier>0819139947</dc:identifier>
+<dc:identifier>9780819139948</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>University Press of America</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Deviant behavior--Labeling theory.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Functionalism (Social sciences)</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/MESH">Social Behavior Disorders.</dc:subject>
+<dc:title>Constructions of deviance in sociological theory : the problem of commensurability </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">840419</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   84007501 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>10751791</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Lubeck, Steven G.</dc:contributor>
+<dc:creator>Empey, LaMar T.</dc:creator>
+<dc:date>1973</dc:date>
+<dc:format>XV, 223 Seiten.</dc:format>
+<dc:identifier>066974641X</dc:identifier>
+<dc:identifier>9780669746419</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Heath Lexington Books</dc:publisher>
+<dc:relation>Lexington-Books.</dc:relation>
+<dc:title>Explaining delinquency : Construction, test, and reformulation of a sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">900316</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>256321913</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Bratton, John.</dc:creator>
+<dc:date>[2014], ©2014</dc:date>
+<dc:description>Second edition.</dc:description>
+<dc:format>xv, 422 pages : illustrations ; 23 cm</dc:format>
+<dc:identifier>1442606533</dc:identifier>
+<dc:identifier>9781442606531</dc:identifier>
+<dc:identifier>1442608099</dc:identifier>
+<dc:identifier>9781442608092</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>University of Toronto Press</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Philosophy--Textbooks.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Capitalism--Textbooks.</dc:subject>
+<dc:title>Capitalism and classical sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">140214</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>870518670</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Clegg, Stewart.</dc:creator>
+<dc:date>2015</dc:date>
+<dc:identifier>113897918X</dc:identifier>
+<dc:identifier>9781138979185</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:title>Power, rule and domination : a critical and empirical understanding of power in ... sociological theory and organizational life.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">160226</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>941439927</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Freidheim, Elizabeth A.</dc:creator>
+<dc:date>1976</dc:date>
+<dc:description>Title from summary screen, viewed on February 22, 2007.</dc:description>
+<dc:format>1 online resource.</dc:format>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://search.ebscohost.com/login.aspx?direct=true&amp;db=sih&amp;jid=FK6&amp;site=ehost-live</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Transaction Publishers</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--History.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Research--History.</dc:subject>
+<dc:title>Sociological theory in research practice </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">070222</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>84853484</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:date>1985-</dc:date>
+<dc:description>Vols. for &lt;1987-&gt; published: Newbury Park, Calif.</dc:description>
+<dc:format>v. : ill. ; 23 cm.</dc:format>
+<dc:identifier>0899-2495</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Sage Publications</dc:publisher>
+<dc:title>Key issues in sociological theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">860428</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">sn 88001510 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>13500359</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Galtung, Johan.</dc:creator>
+<dc:date>1968</dc:date>
+<dc:format>32 pages ; 28 cm.</dc:format>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Transition Books </dc:publisher>
+<dc:publisher>Distribution, Makerere University Bookshop</dc:publisher>
+<dc:relation>Nkanga editions ; 2</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social sciences--Study and teaching.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology--Methodology.</dc:subject>
+<dc:title>Sociological theory and social development </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">771115</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">   77370027 </oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>1369303</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Vos, Matthew.</dc:contributor>
+<dc:creator>Heddendorf, Russell.</dc:creator>
+<dc:date>©2010</dc:date>
+<dc:description>[2nd ed.].</dc:description>
+<dc:description>"The principal author of Hidden threads, Russel Heddendorf, died on December 28, 2008, during the period in which this second edition of the book was developed. My contribution to the book is the addition of a new chapter on postmodern theory ... something that Russ and I worked on together."--Dedication, p. [iii].</dc:description>
+<dc:description>Hidden threads -- The nature of theory -- The European heritage --0 The American tradition -- Functionalism -- Conflict theory -- Social action theory -- Exchange theory -- Symbolic interactionism -- Phenomenology and ethnomethodology -- The sociology of knowledge -- Postmodern theories : calling meaning into question.</dc:description>
+<dc:format>xii, 242 pages ; 23 cm</dc:format>
+<dc:identifier>9780761849018</dc:identifier>
+<dc:identifier>0761849017</dc:identifier>
+<dc:identifier>9780761849025</dc:identifier>
+<dc:identifier>0761849025</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>University Press of America</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Christianity and the social sciences.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Critical theory.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Christian sociology.</dc:subject>
+<dc:title>Hidden threads : a Christian critique of sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">090814</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2009934989</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>443095451</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Klapp, Orrin Edgar, 1915-</dc:creator>
+<dc:date>[1973]</dc:date>
+<dc:format>XIV, 334 p. : ill. ; 23 cm.</dc:format>
+<dc:identifier>0874842239</dc:identifier>
+<dc:identifier>9780874842234</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Mayfield</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Historical sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Organizational sociology.</dc:subject>
+<dc:title>Models of social order : an introduction to sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">790402</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>780751281</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Kandal, Terry R.</dc:creator>
+<dc:date>1993</dc:date>
+<dc:description>3. print.</dc:description>
+<dc:format>XIX, 341 Seiten</dc:format>
+<dc:identifier>0813007968</dc:identifier>
+<dc:identifier>9780813007960</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Florida Internat. Univ. Press</dc:publisher>
+<dc:title>The woman question in classical sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">961129</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>258545064</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Sanderson, Stephen K.</dc:creator>
+<dc:date>2016</dc:date>
+<dc:description>"First published 2012 by Paradigm Publishers"--Title page verso.</dc:description>
+<dc:description>Ch. 1. Functionalism -- ch. 2. Social constructionism -- ch. 3. Marxian conflict theory -- ch. 4. Weberian conflict theory -- ch. 5. World-systems analysis -- ch. 6. Exchange and rational choice theory -- ch. 7. Cultural materialism -- ch. 8. Social evolutionism -- ch. 9. Sociobiology -- ch. 10. Eclecticism.</dc:description>
+<dc:format>1 online resource (xix, 267 pages)</dc:format>
+<dc:identifier>9781315632353</dc:identifier>
+<dc:identifier>1315632357</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://www.tandfebooks.com/isbn/9781315632353</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:title>Rethinking sociological theory : introducing and explaining a scientific theoretical sociology </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">151222</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>958105558</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Rossides, Daniel W.</dc:creator>
+<dc:date>©1978</dc:date>
+<dc:format>XVIII. 567 p. : ritr. ; 24 cm</dc:format>
+<dc:identifier>0395250595</dc:identifier>
+<dc:identifier>9780395250594</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Houghton Mifflin</dc:publisher>
+<dc:subject>Sociologia--Storia.</dc:subject>
+<dc:title>The history and nature of sociological theory </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">991228</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>797479754</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Davis, Michael Marks.</dc:creator>
+<dc:date>2013</dc:date>
+<dc:identifier>1230262628</dc:identifier>
+<dc:identifier>9781230262628</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Theclassics Us</dc:publisher>
+<dc:title>Gabriel tarde, an essay in sociological theory.</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">150921</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>923424104</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Rawls, Anne Warfield, 1950-</dc:contributor>
+<dc:creator>Garfinkel, Harold.</dc:creator>
+<dc:date>2016</dc:date>
+<dc:description>Originally published 2008 by Paradigm Publishers.</dc:description>
+<dc:description>I. Various conceptions of information -- II. Some desired properties of the thing called "information" -- III. The conditions within which a definition of information will be sought -- IV. The "object-in-general" -- V. The "imbedded" possibility of experience -- VI. Some preliminary terms -- VII. A working definition of information -- VIII. Kinds of information -- IX. The factors that condition information : introduction -- X. Factors that condition information : (A) Factors of the order of possibilities -- XI. Factors that condition information : (B) Role factors -- XII. Factors that condition information : (C) Factors of communicative work -- XIII. Factors that condition information : (D) Net-work factors -- XIV. Summary of the theory (omitted) -- XV. Problems and theorems -- Appendix 1. Memo #1 (undated) : a statement of the problem of communicative strategies in self-maintaining systems of activity -- Appendix 2. Memo #2, October 4, 1951 : some problematical areas in the study of communicative work -- Appendix 3. Research proposal draft (undated) : initial proposal for some studies of the determinants of the effectiveness of the communicative work of leaders -- Appendix 4. Research proposal abstract, June 1953 : predicting the effects of time and rate of supervisory succession upon group performance -- Appendix 5. Research report for Wilbert Moore, July 24, 1942 : Bastrop notes.</dc:description>
+<dc:format>1 online resource (vi, 328 pages)</dc:format>
+<dc:identifier>9781315631516</dc:identifier>
+<dc:identifier>1315631512</dc:identifier>
+<dc:identifier xsi:type="http://purl.org/dc/terms/URI">http://www.tandfebooks.com/isbn/9781315631516</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Information theory in sociology.</dc:subject>
+<dc:title>Toward a sociological theory of information </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">151222</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>958104926</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Walker, Gavin</dc:contributor>
+<dc:description>Includes bibliographical references and index.</dc:description>
+<dc:format>vi, 223 Seiten</dc:format>
+<dc:identifier>9781138688728</dc:identifier>
+<dc:identifier>113868872X</dc:identifier>
+<dc:identifier>9781138688735</dc:identifier>
+<dc:identifier>1138688738</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Jung, C. G., 1875-1961--Jung, C. G. 1875-1961.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Sociology.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Social sciences--Philosophy.</dc:subject>
+<dc:title>Jung and sociological theory : readings and appraisal </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">180104</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>1021232194</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+</records>
+<nextRecordPosition>101</nextRecordPosition>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>srw.kw="sociological theory"</query>
+<maximumRecords>100</maximumRecords>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<startRecord>1</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>{built-in-api-key}</wskey>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>
+
