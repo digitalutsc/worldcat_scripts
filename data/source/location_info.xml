@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><holdings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.loc.gov/standards/iso20775/N121_ISOholdings_v4.xsd">
+<holding>
+<institutionIdentifier>
+<value>OTC</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Otterbein University</physicalLocation>
+<physicalAddress>
+<text>Westerville, OH 43081 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=http%3A%2F%2Fcat.opal-libraries.org%2Fsearch%2F%3Fsearchscope%3D17%26searchtype%3Di%26searcharg%3D1452264511%26checksum%3D871a7595313113e2d51a89866b175535&amp;title=Otterbein+University&amp;linktype=opac&amp;detail=OTC%3AOtterbein+University%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>ANTCH</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Antioch University Library</physicalLocation>
+<physicalAddress>
+<text>Yellow Springs, OH 45387 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=https%3A%2F%2Fantioch.on.worldcat.org%2Fsearch%3FdatabaseList%3D%26queryString%3Dbn%253A1452264511%26checksum%3De44cd738e73820c7f0e8548c8e414ae0&amp;title=Antioch+University+Library&amp;linktype=opac&amp;detail=ANTCH%3AAntioch+University+Library%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>ASC</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Ashland University</physicalLocation>
+<physicalAddress>
+<text>Ashland, OH 44805 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=http%3A%2F%2Flibrary.ashland.edu%2Fsearch%2F%3Fsearchtype%3Di%26searcharg%3D1452264511%26checksum%3D0ab56bccea71ebfe1dd840981b158a85&amp;title=Ashland+University&amp;linktype=opac&amp;detail=ASC%3AAshland+University%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>FIN</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>University of Findlay</physicalLocation>
+<physicalAddress>
+<text>Findlay, OH 45840 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=http%3A%2F%2Fcat.opal-libraries.org%2Fsearch%7ES8%2Fi1452264511%26checksum%3Db63fb818679197109b5b7e49540a7146&amp;title=University+of+Findlay&amp;linktype=opac&amp;detail=FIN%3AUniversity+of+Findlay%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>WV3</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>West Virginia University at Parkersburg</physicalLocation>
+<physicalAddress>
+<text>Parkersburg, WV 26104 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=http%3A%2F%2F157.182.203.197%3A12108%2Fvwebv%2Fsearch%3FsearchCode1%3DISBN%26searchType%3D2%26argType1%3Dany%26searchArg1%3D1452264511%26checksum%3Da40641b1ea33c901651e00fff9c5e9f7&amp;title=West+Virginia+University+at+Parkersburg&amp;linktype=opac&amp;detail=WV3%3AWest+Virginia+University+at+Parkersburg%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>XAV</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Xavier University</physicalLocation>
+<physicalAddress>
+<text>Cincinnati, OH 45207 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=http%3A%2F%2Fxplore.xavier.edu%2Fsearch%2Fi1452264511%26checksum%3D8c2f7f136a3e4bc099c69282804d5d66&amp;title=Xavier+University&amp;linktype=opac&amp;detail=XAV%3AXavier+University%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>VCO</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Union Institute &amp; University</physicalLocation>
+<physicalAddress>
+<text>Cincinnati, OH 45206 United States</text>
+</physicalAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>IEC</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Earlham College</physicalLocation>
+<physicalAddress>
+<text>Richmond, IN 47374 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=http%3A%2F%2Fearlham.worldcat.org%2Fisbn%2F1452264511%26checksum%3D513f360688c5fdbffded59c226d89a7b&amp;title=Earlham+College&amp;linktype=opac&amp;detail=IEC%3AEarlham+College%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>MAL</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Malone University</physicalLocation>
+<physicalAddress>
+<text>Canton, OH 44709 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=http%3A%2F%2Fcat.opal-libraries.org%2Fsearch%2F%3Fsearchscope%3D12%26searchtype%3Di%26searcharg%3D1452264511%26checksum%3D2a4cd8096663f6a55ffe28ee3a6067bc&amp;title=Malone+University&amp;linktype=opac&amp;detail=MAL%3AMalone+University%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+<holding>
+<institutionIdentifier>
+<value>KUY</value>
+<typeOrSource>
+<pointer>http://worldcat.org/registry/institutions/</pointer>
+</typeOrSource>
+</institutionIdentifier>
+<physicalLocation>Maysville Community and Technical College</physicalLocation>
+<physicalAddress>
+<text>Maysville, KY 41056 United States</text>
+</physicalAddress>
+<electronicAddress>
+<text>http://www.worldcat.org/wcpa/oclc/62123162?page=frame&amp;url=http%3A%2F%2Fopac.kctcs.edu%2Fvwebv%2Fsearch%3FsearchCode1%3DISBN%26searchType%3D2%26argType1%3Dany%26searchArg1%3D1452264511%26checksum%3D1a21cea2bfae65c9648df89e95449510&amp;title=Maysville+Community+and+Technical+College&amp;linktype=opac&amp;detail=KUY%3AMaysville+Community+and+Technical+College%3AAcademic Library&amp;app=wcapi&amp;id=OCPSB-</text>
+</electronicAddress>
+<holdingSimple>
+<copiesSummary>
+<copiesCount>1</copiesCount>
+</copiesSummary>
+</holdingSimple>
+</holding>
+</holdings>
+
